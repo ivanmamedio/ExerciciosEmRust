@@ -9,4 +9,5 @@ fn main() {
     mutavel = 30;
     println("Mutável (modificada): {}", mutavel);
     
+
 }
